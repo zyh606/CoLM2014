@@ -5,4 +5,4 @@ NOTE: the new version of CoLM please visit https://github.com/CoLM-SYSU/CoLM202X
 
  happy new year 2026
 
- now is the second day of 2026
+ now is the second day of 2026！！！！！
